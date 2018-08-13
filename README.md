@@ -1,3 +1,5 @@
 # scripts
 
-teste
+Projeto de Teste
+
+Plataforma utilizada somente para estudos, 
